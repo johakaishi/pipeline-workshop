@@ -1,3 +1,4 @@
 # pipeline-workshop
 
 - https://github.com/jourzy/pipeline-workshop/blob/main/my-first-pipeline.md
+- https://github.com/jourzy/full-workflow-pipeline
